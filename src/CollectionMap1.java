@@ -17,6 +17,7 @@ public class CollectionMap1 {
 		hm.put(3,"Praveen");
 		String pr=new String("Prithvik");
 		hm.put(4,pr);
+		hm.put(5,"SreejaPraveen");
 		System.out.println(hm);
 		
 		hm.remove(0);
