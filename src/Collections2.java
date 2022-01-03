@@ -25,6 +25,7 @@ public class Collections2 {
 		Boolean Result1=arraylistMethod(input);
 		Boolean Result2=mapMethod(input);
 		Boolean Result3=setMethod(input);	
+		System.out.println("kjgu4kiu5i");
 	}
 
 	
